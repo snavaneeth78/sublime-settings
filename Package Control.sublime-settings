@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Emmet",
+		"Package Control",
+		"Sass",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
