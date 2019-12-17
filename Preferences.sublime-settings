@@ -1,6 +1,6 @@
 {
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"font_face": "Inconsolata",
 	"font_size": 13,
 	"highlight_line": true,
@@ -10,7 +10,9 @@
 	],
 	"line_height": 12,
 	"line_padding_bottom": 1,
-	"theme": "Agila Monokai.sublime-theme",
+	"tab_size": 4,
+	"theme": "ayu-mirage.sublime-theme",
 	"theme_agila_compact_sidebar": true,
-	"ui_separator": true
+	"ui_separator": true,
+	"use_tab_stops": true
 }

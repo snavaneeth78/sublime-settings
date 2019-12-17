@@ -11,12 +11,19 @@
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
-		"CodeFormatter",
+		"DotENV",
 		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
 		"Package Control",
+		"Pug",
+		"React ES6 Snippets",
+		"React IDE",
 		"Sass",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"TypeScript",
+		"Vue Syntax Highlight"
 	]
 }
